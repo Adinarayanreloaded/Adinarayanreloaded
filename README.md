@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😊
  
 I am passsionate about AI,ML and DataScience. Happy to learn and grow together.
 
