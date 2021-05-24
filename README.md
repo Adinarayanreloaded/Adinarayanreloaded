@@ -9,8 +9,9 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - 💬 Ask me about: AI, ML and Data Science.
 - 📫 How to reach and know about me: On LinkedIn
 - https://www.linkedin.com/in/adityanarayansharma/
-- Competitive Coding : HackerRank Profile
+- Competitive Coding : HackerRank and Codechef Profile
 - https://www.hackerrank.com/Adinarayanhr05
+- https://www.codechef.com/users/adicc05
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
 
