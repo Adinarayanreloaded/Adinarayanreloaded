@@ -17,6 +17,7 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - https://www.codechef.com/users/adicc05
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
+- Also IITM BSC PDS Qualifiers in process.
 
 My Projects:
 
