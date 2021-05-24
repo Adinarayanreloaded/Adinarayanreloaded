@@ -9,6 +9,7 @@ I am passsionate about AI,ML and DataScience. Happy to learn and grow together.
 - 📫 How to reach me: https://www.linkedin.com/in/adityanarayansharma/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
+
 My Projects:
 
 Hand Cricket Using AI and ML
