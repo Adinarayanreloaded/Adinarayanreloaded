@@ -22,6 +22,7 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - Lead and core team member at Tech Today Society.
 - IEEE Student Member and IEEE Member at IEEE Chandigarh University Student Branch.
 - Community Member at Alexa Developers and Dexignare.
+- Completed Deep Learning Specilisations and Machinne Learning Courses from Coursera.
 
 My Projects:
 
