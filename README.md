@@ -7,7 +7,7 @@ I am passsionate about AI,ML and DataScience. Happy to learn and grow together.
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with: Projects of AI and ML.
 - 💬 Ask me about: AI, ML and Data Science.
-- 📫 How to reach me: https://www.linkedin.com/in/adityanarayansharma/
+- 📫 How to reach and know about me: https://www.linkedin.com/in/adityanarayansharma/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
 
