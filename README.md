@@ -1,8 +1,8 @@
 Hi there😊!!
 
-Aditya Narayan Sharma
+I am Aditya Narayan Sharma
 
-BE CSE Chandigarh University
+BE CSE at Chandigarh University
 
 I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 
