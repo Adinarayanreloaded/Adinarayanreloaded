@@ -1,16 +1,13 @@
 ### Hi there 👋
+I am passsionate about AI,ML and DataScience. Happy to learn and grow together.
 
-<!--
-**Adinarayanreloaded/Adinarayanreloaded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Programming and Data Science
+- 🌱 I’m currently learning: Python, AI and ML .
+- 👯 I’m looking to collaborate on LinkedIn.
+- 🤔 I’m looking for help with: Projects of AI and ML.
+- 💬 Ask me about: AI, ML and Data Science.
+- 📫 How to reach me: https://www.linkedin.com/in/adityanarayansharma/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:I love music.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
