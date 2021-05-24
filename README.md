@@ -19,7 +19,7 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
 - Also IITM BSC PDS Qualifiers in process.
-- Lead at Tech Today Society.
+- Lead and core team member at Tech Today Society.
 - IEEE Student Member and IEEE Member at IEEE Chandigarh University Student Branch.
 - Community Member at Alexa Developers and Dexignare.
 
