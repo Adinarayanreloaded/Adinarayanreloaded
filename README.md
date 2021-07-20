@@ -2,7 +2,7 @@ Hi there😊!!
 
 I am Aditya Narayan Sharma
 
-Currently pursuing BE CSE at Chandigarh University
+Currently pursuing BE CSE at Chandigarh University and BSC PDS at IIT Madras
 
 I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 
@@ -18,11 +18,7 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - https://www.codechef.com/users/adicc05
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
-- Also IITMadras BSC PDS Qualifiers in process.
-(Semester started but qualifier delayed due to Covid)
-- Lead and core team member at Tech Today Society.
-- IEEE Student Member and IEEE Member at IEEE Chandigarh University Student Branch.
-- Community Member at Alexa Developers and Dexignare.
+- 
 - Completed Deep Learning Specilizations and Machinne Learning Courses from Coursera.
 
 My Projects:
@@ -34,6 +30,10 @@ https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464/
 Obstacle Avoiding Car
 
 https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168/
+
+Zaika Restaurant
+
+https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integral-part-of-activity-6822094927632093184-ssr7
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
