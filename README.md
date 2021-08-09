@@ -7,9 +7,9 @@ Currently pursuing BE CSE at Chandigarh University and BSC PDS at IIT Madras
 I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 
 - 🔭 I’m currently working on Programming and Data Science
-- 🌱 I’m currently learning: Python, AI and ML .
+- 🌱 I’m currently learning: Data Science.
 - 👯 I’m looking to collaborate on LinkedIn.
-- 🤔 I’m looking for help with: Projects of AI and ML.
+- 🤔 I’m looking for help with: Projects of Data Science.
 - 💬 Ask me about: AI, ML and Data Science.
 - 📫 How to reach and know about me: On LinkedIn
 - https://www.linkedin.com/in/adityanarayansharma/
