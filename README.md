@@ -38,7 +38,7 @@ https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integ
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adianrayanreloaded&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinarayanreloaded&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
