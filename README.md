@@ -34,6 +34,9 @@ Zaika Restaurant
 
 https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integral-part-of-activity-6822094927632093184-ssr7
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 I know and am interested in :
