@@ -40,6 +40,8 @@ https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integ
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinarayanreloaded&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adinarayanreloaded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 I know and am interested in :
