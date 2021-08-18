@@ -62,7 +62,7 @@ Tools I have worked on:
 ![image](https://user-images.githubusercontent.com/37697073/119346755-3f7b9480-bcb8-11eb-9e91-b06ed2fedcbf.png)
 
 
-Available on
+Available on these platforms
 
 ![image](https://user-images.githubusercontent.com/37697073/119344576-74d2b300-bcb5-11eb-858b-6bb43d880a11.png)
 ![image](https://user-images.githubusercontent.com/37697073/119344614-7e5c1b00-bcb5-11eb-9e13-de6c5c797acc.png)
