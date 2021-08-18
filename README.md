@@ -68,7 +68,6 @@ Available on these platforms
 ![image](https://user-images.githubusercontent.com/37697073/119344614-7e5c1b00-bcb5-11eb-9e13-de6c5c797acc.png)
 ![image](https://user-images.githubusercontent.com/37697073/119346080-5ec5f200-bcb7-11eb-8e5c-317a553a365d.png)
 ![image](https://user-images.githubusercontent.com/37697073/119346135-743b1c00-bcb7-11eb-9b76-36e9abf40eb5.png)
-![image](https://i.gadgets360cdn.com/large/Telegram_webz_webk_launch_1618814448919.jpg?downsize=950:*&output-quality=80&output-format=webp)
 
 
 
