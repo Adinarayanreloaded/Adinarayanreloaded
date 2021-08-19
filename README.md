@@ -2,7 +2,7 @@ Hi there😊!!
 
 I am Aditya Narayan Sharma
 
-Currently pursuing BE CSE at Chandigarh University and BSC PDS at IIT Madras
+Currently pursuing BE CSE at Chandigarh University and BS PDS at IIT Madras
 
 I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 
