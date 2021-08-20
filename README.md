@@ -34,7 +34,7 @@ Zaika Restaurant
 
 https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integral-part-of-activity-6822094927632093184-ssr7
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats) 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
