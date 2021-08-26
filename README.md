@@ -52,23 +52,3 @@ I know and am interested in :
 ![image](https://user-images.githubusercontent.com/37697073/119342921-5bc90280-bcb3-11eb-924c-50e6a39bf1a8.png)
 ![image](https://user-images.githubusercontent.com/37697073/119342985-713e2c80-bcb3-11eb-9a60-6a1549cc71a8.png)
 
-
-Tools I have worked on:
-
-![image](https://user-images.githubusercontent.com/37697073/119347037-97b29680-bcb8-11eb-9f5e-d79223cf6150.png)
-![image](https://user-images.githubusercontent.com/37697073/119344874-cf6c0f00-bcb5-11eb-805b-43042b7dd15e.png)
-![image](https://user-images.githubusercontent.com/37697073/119346213-8ddc6380-bcb7-11eb-9756-715655644ef3.png)
-![image](https://user-images.githubusercontent.com/37697073/119346541-f75c7200-bcb7-11eb-9ea7-025f29c8c691.png)
-![image](https://user-images.githubusercontent.com/37697073/119346755-3f7b9480-bcb8-11eb-9e91-b06ed2fedcbf.png)
-
-
-Available on these platforms
-
-![image](https://user-images.githubusercontent.com/37697073/119344576-74d2b300-bcb5-11eb-858b-6bb43d880a11.png)
-![image](https://user-images.githubusercontent.com/37697073/119344614-7e5c1b00-bcb5-11eb-9e13-de6c5c797acc.png)
-![image](https://user-images.githubusercontent.com/37697073/119346080-5ec5f200-bcb7-11eb-8e5c-317a553a365d.png)
-![image](https://user-images.githubusercontent.com/37697073/119346135-743b1c00-bcb7-11eb-9b76-36e9abf40eb5.png)
-
-
-
-
