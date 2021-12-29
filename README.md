@@ -10,7 +10,7 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - 🌱 I’m currently learning: Data Science.
 - 🤗 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with: Projects of Data Science.
-- 💬 Ask me about: Data Science.
+- 💬 Ask me about: Data Science and Programming.
 - 📫 How to reach and know about me: On LinkedIn
 - https://www.linkedin.com/in/adityanarayansharma/
 - Competitive Coding : HackerRank and Codechef Profile
@@ -18,7 +18,6 @@ I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
 - https://www.codechef.com/users/adicc05
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
-- Completed Deep Learning Specilizations and Machinne Learning Courses from Coursera.
 
 My Projects:
 
