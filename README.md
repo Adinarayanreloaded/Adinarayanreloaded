@@ -11,6 +11,7 @@
 - 💬 Ask me about: Data Science and Programming.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
+![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
 ## My Projects:
 
@@ -31,8 +32,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats) 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinarayanreloaded&theme=tokyonight)
 
