@@ -11,7 +11,7 @@
 - 💬 Ask me about: Data Science and Programming.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
-![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
+- ![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
 ## My Projects:
 
