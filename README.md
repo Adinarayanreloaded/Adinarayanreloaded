@@ -26,6 +26,15 @@ Zaika Restaurant
 
 https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integral-part-of-activity-6822094927632093184-ssr7
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/adityanarayansharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/Adinarayanreloaded/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+<a href = "https://www.instagram.com/adityansharma5/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://www.hackerrank.com/Adinarayanhr05"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+<a href = "https://www.codechef.com/users/adicc05"><img src="https://img.icons8.com/ios/50/000000/codechef.png"/></a>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats) 
 
@@ -45,11 +54,4 @@ I know and am interested in :
 ![image](https://user-images.githubusercontent.com/37697073/119342921-5bc90280-bcb3-11eb-924c-50e6a39bf1a8.png)
 ![image](https://user-images.githubusercontent.com/37697073/119342985-713e2c80-bcb3-11eb-9a60-6a1549cc71a8.png)
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/adityanarayansharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/Adinarayanreloaded/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-<a href = "https://www.instagram.com/adityansharma5/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/Adinarayanhr05"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
-<a href = "https://www.codechef.com/users/adicc05"><img src="https://img.icons8.com/ios/50/000000/codechef.png"/></a>
