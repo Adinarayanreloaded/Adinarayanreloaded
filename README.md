@@ -1,6 +1,6 @@
 Hi there😊!!
 
-I am Aditya Narayan Sharma
+I am Aditya,
 
 Currently pursuing BE CSE at Chandigarh University and BS PDS at IIT Madras
 
