@@ -14,15 +14,15 @@
 
 ## My Projects:
 
-Hand Cricket Using AI and ML
+<h4 align="center">Hand Cricket Using AI and ML</h4>
 
 https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464/
 
-Obstacle Avoiding Car
+<h4 align="center">Obstacle Avoiding Car</h4>
 
 https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168/
 
-Zaika Restaurant
+<h4 align="center">Zaika Restaurant</h4>
 
 https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184/
 
