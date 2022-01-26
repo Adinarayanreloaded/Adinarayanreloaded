@@ -14,15 +14,11 @@
 
 ## My Projects:
 
-<h5 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h5>
+<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h3>
 
-<h4 align="center">Obstacle Avoiding Car</h4>
-
-<h5 align="center">https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168/</h5>
-
-<h4 align="center">Zaika Restaurant</h4>
-
-<h5 align="center">https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184/</h5>
+<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168">Obstacle Avoiding Car</h3>
+  
+<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184">Zaika Restaurant</h3>
 
 ## Connect with me:
 <p align="left">
