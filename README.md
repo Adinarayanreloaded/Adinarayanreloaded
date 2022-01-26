@@ -9,15 +9,10 @@
 - 🤗 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with: Projects of Data Science.
 - 💬 Ask me about: Data Science and Programming.
-- 📫 How to reach and know about me: On LinkedIn
-- https://www.linkedin.com/in/adityanarayansharma/
-- Competitive Coding : HackerRank and Codechef Profile
-- https://www.hackerrank.com/Adinarayanhr05
-- https://www.codechef.com/users/adicc05
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
 
-My Projects:
+## My Projects:
 
 Hand Cricket Using AI and ML
 
@@ -56,5 +51,5 @@ I know and am interested in :
 <a href = "https://www.linkedin.com/in/adityanarayansharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/Adinarayanreloaded/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 <a href = "https://www.instagram.com/adityansharma5/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/Adinarayanhr05"><<img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+<a href = "https://www.hackerrank.com/Adinarayanhr05"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
 <a href = "https://www.codechef.com/users/adicc05"><img src="https://img.icons8.com/ios/50/000000/codechef.png"/></a>
