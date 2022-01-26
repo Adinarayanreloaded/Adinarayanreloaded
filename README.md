@@ -24,7 +24,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168/
 
 Zaika Restaurant
 
-https://www.linkedin.com/posts/adityanarayansharma_food-has-always-been-an-integral-part-of-activity-6822094927632093184-ssr7
+https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184/
 
 ## Connect with me:
 <p align="left">
