@@ -14,9 +14,7 @@
 
 ## My Projects:
 
-<h4 align="center">Hand Cricket Using AI and ML</h4>
-
-<h5 align="center">https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464/</h5>
+<h5 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h5>
 
 <h4 align="center">Obstacle Avoiding Car</h4>
 
