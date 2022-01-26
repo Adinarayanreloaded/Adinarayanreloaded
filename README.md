@@ -1,10 +1,8 @@
-Hi there😊!!
+<h1 align="center">Hello folks 😊, I am Aditya !</h1> 
 
-I am Aditya,
+<h3 align="center"> Currently pursuing BE CSE at Chandigarh University and BS PDS at IIT Madras </h3>
 
-Currently pursuing BE CSE at Chandigarh University and BS PDS at IIT Madras
-
-I am passsionate about AI,ML and Data Science. Happy to learn and grow together.
+<h4 align="center"> I am passsionate about Data Science and Programming.</h4>
 
 - 🔭 I’m currently working on Programming and Data Science
 - 🌱 I’m currently learning: Data Science.
