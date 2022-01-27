@@ -13,9 +13,9 @@
 - 💬 Ask me about: Data Science and Programming with Web Development also.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - ![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">My Projects<h3>
 
