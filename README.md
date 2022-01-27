@@ -13,6 +13,8 @@
 - ⚡ Fun fact:I love music.
 - ![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## My Projects:
 
 <h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h3>
