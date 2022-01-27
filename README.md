@@ -4,16 +4,17 @@
 
 <h4 align="center"> I am passsionate about Data Science and Programming.</h4>
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Programming and Data Science
 - 🌱 I’m currently learning: Data Science.
 - 🤗 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with: Projects of Data Science.
-- 💬 Ask me about: Data Science and Programming with Web Development also.
+- 💬 Ask me about: Data Science and Programming.
+- 🤩 Also knows about Web Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I love music.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 -![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
