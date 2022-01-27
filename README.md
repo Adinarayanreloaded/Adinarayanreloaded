@@ -4,7 +4,7 @@
 
 <h4 align="center"> I am passsionate about Data Science and Programming.</h4>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - 🔭 I’m currently working on Programming and Data Science
 - 🌱 I’m currently learning: Data Science.
@@ -15,16 +15,15 @@
 - ⚡ Fun fact:I love music.
 - ![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<h3 align="left">My Projects<h3>
 
+<h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h3>
 
-## My Projects:
-
-<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h3>
-
-<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168">Obstacle Avoiding Car</h3>
+<h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168">Obstacle Avoiding Car</h3>
   
-<h3 align="center"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184">Zaika Restaurant</h3>
+<h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184">Zaika Restaurant</h3>
 
 ## Connect with me:
 <p align="left">
