@@ -13,7 +13,7 @@
 - 💬 Ask me about: Data Science and Programming.
 - 🤩 Also knows about Web Development.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:I love music.
+- ⚡ Fun fact:I love listening to music.
 
 
 -![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
