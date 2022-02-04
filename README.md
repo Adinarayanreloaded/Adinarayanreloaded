@@ -54,10 +54,3 @@ I know and am interested in:
 ![image](https://user-images.githubusercontent.com/37697073/119342902-54a1f480-bcb3-11eb-924e-6e32852e230b.png)
 ![image](https://user-images.githubusercontent.com/37697073/119342921-5bc90280-bcb3-11eb-924c-50e6a39bf1a8.png)
 ![image](https://user-images.githubusercontent.com/37697073/119342985-713e2c80-bcb3-11eb-9a60-6a1549cc71a8.png)
-  
-<div align="center">
-	<img src="https://metrics.lecoq.io/Adinarayanreloaded?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-  
-  
-
