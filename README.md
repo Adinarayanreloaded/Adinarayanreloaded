@@ -14,7 +14,6 @@
 - 🤔 I’m looking for help with: Projects of Data Science.
 - 💬 Ask me about: Data Science and Programming.
 - 🤩 Also knows about Web Development.
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact:I love listening to music.
 
 
