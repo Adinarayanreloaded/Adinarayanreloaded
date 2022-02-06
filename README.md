@@ -37,15 +37,6 @@
 <a href = "https://www.hackerrank.com/Adinarayanhr05"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
 <a href = "https://www.codechef.com/users/adicc05"><img src="https://img.icons8.com/ios/50/000000/codechef.png"/></a>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinarayanreloaded&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adinarayanreloaded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,3 +49,13 @@ Languages:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinarayanreloaded&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adinarayanreloaded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
