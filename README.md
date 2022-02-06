@@ -47,9 +47,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Adinarayanreloaded&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 Languages:
-
-![image](https://user-images.githubusercontent.com/37697073/119342823-3fc56100-bcb3-11eb-873a-499e74a8ae30.png)
-![image](https://user-images.githubusercontent.com/37697073/119342837-4653d880-bcb3-11eb-9f0c-3fdea135b7fd.png)
-![image](https://user-images.githubusercontent.com/37697073/119342902-54a1f480-bcb3-11eb-924e-6e32852e230b.png)
-![image](https://user-images.githubusercontent.com/37697073/119342921-5bc90280-bcb3-11eb-924c-50e6a39bf1a8.png)
-![image](https://user-images.githubusercontent.com/37697073/119342985-713e2c80-bcb3-11eb-9a60-6a1549cc71a8.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
