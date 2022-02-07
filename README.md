@@ -13,7 +13,7 @@
 - 🤗 I’m looking to collaborate on LinkedIn and Github
 - 🤔 I’m looking for help with: Projects of Data Science.
 - 💬 Ask me about: Data Science and Programming.
-- 🤩 Also knows about Web Development.
+- 🤩 Also knows about Web Development(Front and Back).
 - ⚡ Fun fact:I love listening to music.
 
 
