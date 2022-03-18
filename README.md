@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aditya</h1>
 
-<h3 align="center">Currently pursuing BE CSE at Chandigarh University and BS PDS at IIT Madras</h3>
+<h3 align="center">Currently pursuing BE CSE at Chandigarh University</h3>
 
 <h4 align="center"> I am passsionate about Data Science and Programming.</h4>
 
@@ -8,9 +8,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on Programming and Data Science
-- 🌱 I’m currently learning: Data Science.
-- 🤗 I’m looking to collaborate on LinkedIn and Github
+- 🔭 I’m currently working on Programming and Data Science.
+- 🌱 Also part of the IITMOD program.
+- 🤗 I’m looking to collaborate on LinkedIn and Github.
 - 🤔 I’m looking for help with: Projects of Data Science .
 - 💬 Ask me about: Data Science and Programming.
 - 🤩 Also knows about Web Development(Front and Back).
