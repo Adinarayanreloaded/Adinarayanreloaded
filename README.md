@@ -27,6 +27,8 @@
 <h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168">Obstacle Avoiding Car</h3>
   
 <h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184">Zaika Restaurant</h3>
+  
+<h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6933124608678064128/">Music Nation</h3>
 
 ## Connect with me:
 <p align="left">
