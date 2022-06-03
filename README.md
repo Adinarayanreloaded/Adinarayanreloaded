@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aditya</h1>
+<h1 align="center">Hi, I'm Aditya</h1>
 
 <h3 align="center">Currently pursuing BE CSE at Chandigarh University</h3>
 
