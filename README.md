@@ -37,8 +37,7 @@
 <a href = "https://github.com/Adinarayanreloaded/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 <a href = "https://www.instagram.com/adityansharma5/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href = "https://www.hackerrank.com/Adinarayanhr05"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
-<a href = "https://leetcode.com/adinarayanofficial/"><img src="![image](https://user-images.githubusercontent.com/37697073/176481764-05bf7cbd-6148-4d5f-bfb0-9ef494ad3785.png)
-"/></a>
+<a href = "https://leetcode.com/adinarayanofficial/"><img src="![image](https://user-images.githubusercontent.com/37697073/176481764-05bf7cbd-6148-4d5f-bfb0-9ef494ad3785.png)"/></a>
 
 Languages:
 
