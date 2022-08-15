@@ -53,10 +53,6 @@ Languages:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adinarayanreloaded)](https://git.io/streak-stats) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinarayanreloaded&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adinarayanreloaded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
