@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aditya</h1>
 
-<h3 align="center">BE CSE Student at Chandigarh University('24)</h3>
+<h3 align="center">BE CSE Student at Chandigarh University(2020-2024)</h3>
 
 <h4 align="center"> I am passsionate about Data Science and Programming.</h4>
 
