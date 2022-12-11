@@ -24,7 +24,7 @@
 
 <h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6758670408322494464">Hand Cricket Using AI and ML</h3>
 
-<h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6798576503119495168">Obstacle Avoiding Car</h3>
+<h3 align="left"><a href="https://www.linkedin.com/posts/adityanarayansharma_data-is-an-asset-in-the-21st-century-the-activity-6999376646138916864-pfBN?utm_source=share&utm_medium=member_desktop">Multiple Disease Prediction System</h3>
   
 <h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6822094927632093184">Zaika Restaurant</h3>
   
