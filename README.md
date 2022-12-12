@@ -10,10 +10,8 @@
 
 - 🔭 I’m currently working on Programming and Data Science.
 - 🌱 Completed Foundational Level of the IITMOD program.
-- 🤗 I’m looking to collaborate on LinkedIn and Github.
-- 🤔 I’m looking for help with: Projects of Data Science .
+- 🤗 College Socities: IEEE CUSB | IEEE CTSoC | PeopleWhoCodes
 - 💬 Ask me about: Data Science and Programming.
-- 🤩 Also knows about Web Development(Front and Back).
 - ⚡ Fun fact:I love listening to music.
 
 
