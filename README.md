@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Aditya</h1>
 
-<h3 align="center">BE CSE Student at Chandigarh University(2020-2024)</h3>
-
-<h4 align="center"> I am passsionate about Data Science and Programming.</h4>
-
 <h5 align="center"> <a href="https://adinarayanreloaded.github.io/Adiwebsite/"> Portfolio Website </h5>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on Programming and Data Science.
+- 🧑‍🎓BE CSE Batch of 2024 from Chandigarh University
 - 🌱 Completed Foundational Level of the IITMOD program.
 - 🤗 College Societies: IEEE CUSB | IEEE CTSoC | PeopleWhoCodes
 - 💬 Ask me about: Data Science and Programming.
