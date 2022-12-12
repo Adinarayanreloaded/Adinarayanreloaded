@@ -8,7 +8,7 @@
 - 🌱 Completed Foundational Level of the IITMOD program.
 - 🤗 College Societies: IEEE CUSB | IEEE CTSoC | PeopleWhoCodes
 - 💬 Ask me about: Data Science and Programming.
-- ⚡ Fun fact:I love listening to music.
+- ⚡ Fun fact: I love listening to music.
 
 
 -![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
