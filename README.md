@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Programming and Data Science.
 - 🌱 Completed Foundational Level of the IITMOD program.
-- 🤗 College Socities: IEEE CUSB | IEEE CTSoC | PeopleWhoCodes
+- 🤗 College Societies: IEEE CUSB | IEEE CTSoC | PeopleWhoCodes
 - 💬 Ask me about: Data Science and Programming.
 - ⚡ Fun fact:I love listening to music.
 
