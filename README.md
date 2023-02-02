@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🧑‍🎓 BE CSE Batch of 2024 from Chandigarh University
-- 🤗 College Societies: IEEE CUSB | IEEE CTSoC | PeopleWhoCodes
+- 🤗 College Societies: IEEE CU | PeopleWhoCodes
 - 💬 Ask me about: Data Science and Programming.
 - ⚡ Fun fact: I love listening to music.
 - 🌱 Completed Foundational Level of the IITMOD program.
