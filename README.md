@@ -29,8 +29,6 @@
 <a href = "https://www.linkedin.com/in/adityanarayansharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/Adinarayanreloaded/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 <a href = "https://www.instagram.com/adityacse05/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://linktr.ee/Adilinktree"><img src="https://www.pngegg.com/en/png-nrqgn"></a>
-
 <a href = "https://leetcode.com/adinarayanofficial/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
 
 Languages:
