@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditya</h1>
+<h1 align="center">Hi, I'm Aditya Narayan Sharma</h1>
 
 <h5 align="center"> <a href="https://adinarayanreloaded.github.io/Adiwebsite/"> Portfolio Website </h5>
 
