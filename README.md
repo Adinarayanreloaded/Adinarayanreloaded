@@ -4,11 +4,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🧑‍🎓 BE CSE Batch of 2024 from Chandigarh University
-- 🤗 College Societies: IEEE CU | PeopleWhoCodes
-- 💬 Ask me about: Data Science and Programming.
+- 🪪 System Engineer at HCLTech.
+- 🏢 Mentor at Coding Ninjas.
+- 🧑‍🎓 BE CSE Batch of 2024 from Chandigarh University.
+- 🤗 College Society: IEEE Chandigarh University Student Branch.
+- 💬 Ask me about: Computer Science Engineering.
 - ⚡ Fun fact: I love listening to music.
-- 🌱 Completed Foundational Level of the IITMOD program.
+- 🌱 Intern at Coding Ninjas
 
 -![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
