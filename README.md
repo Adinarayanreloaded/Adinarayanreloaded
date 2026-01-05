@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Aditya Narayan Sharma</h1>
 
-<h5 align="center"> <a href="https://adinarayanreloaded.github.io/Adiwebsite/"> Portfolio Website </h5>
+<h5 align="center"> <a href="https://adityanarayansharma.in"> New Portfolio </h5>
+
+<h5 align="center"> <a href="https://adinarayanreloaded.github.io/Adiwebsite/"> Portfolio Old Website </h5>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
