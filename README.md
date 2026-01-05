@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🪪 Technical Solutions Engineer (Cloud) at HCLTech.
+- 🪪 Software (Cloud) Engineer at HCLTech.
 - 🏢 Mentor at Coding Ninjas.
 - 🧑‍🎓 BE CSE Batch of 2024 from Chandigarh University.
 - 🤗 College Society: IEEE Chandigarh University Student Branch.
