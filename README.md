@@ -27,6 +27,8 @@
   
 <h3 align="left"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6933124608678064128/">Music Nation</h3>
 
+<h3 align="left"><a href="https://lucknowitcity.netlify.app/">Lucknow Tech Hub</h3>
+  
 ## Connect with me:
 <p align="left">
 
