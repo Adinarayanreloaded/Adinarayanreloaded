@@ -12,7 +12,7 @@
 - 🤗 College Society: IEEE Chandigarh University Student Branch.
 - 💬 Ask me about: Computer Science Engineering.
 - ⚡ Fun fact: I love listening to music.
-- 🌱 Intern at Coding Ninjas
+- 🌱 DSA from Youtube.
 
 -![](https://visitor-badge.laobi.icu/badge?page_id=Adinarayanreloaded.Adinarayanreloaded)
 
