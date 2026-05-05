@@ -26,7 +26,7 @@
 
 <h3 align="left"><a href="https://lucknowitcity.netlify.app/">Lucknow Tech Hub</h3>
 
-<h3 align="left"><a href="https://adinarayanreloaded.github.io/Adiwebsite/">Github</h3>
+<h3 align="left"><a href="https://adinarayanreloaded.github.io/Adiwebsite/">Prtfolio Website Github</h3>
   
 ## Connect with me:
 <p align="left">
